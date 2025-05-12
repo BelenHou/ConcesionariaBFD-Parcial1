@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matias\\Documents\\prueba\\concesionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAEC0FB-E02A-4C7A-AFD8-79ACCD793E51}|..\\..\\Belen\\DataBase\\DataBase.csproj|c:\\users\\matias\\documents\\belen\\database\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77D29D5-891C-4282-8577-14DAE63BC5C2}|..\\..\\Belen\\Controller\\Controller.csproj|c:\\users\\matias\\documents\\belen\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17564D75-6D31-416B-9BFF-0D6400589349}|View.csproj|C:\\Users\\Matias\\Documents\\prueba\\concesionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17564D75-6D31-416B-9BFF-0D6400589349}|View.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Documents\\Belen\\Controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Belen\\Controller\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Matias\\Documents\\Belen\\Controller\\LoginController.cs",
+              "RelativeToolTip": "..\\..\\Belen\\Controller\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:15:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Documents\\Belen\\DataBase\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\Belen\\DataBase\\DataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\Matias\\Documents\\Belen\\DataBase\\DataBaseConnection.cs",
+              "RelativeToolTip": "..\\..\\Belen\\DataBase\\DataBaseConnection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:57:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Documents\\prueba\\concesionario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matias\\Documents\\prueba\\concesionario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:06:04.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
